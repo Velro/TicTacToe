@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ca1441cef9c856a4a934bfbd7f82427b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - linesTexture: {fileID: 2800000, guid: 3262f95a66b56024689f09f3ae6a9b7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
